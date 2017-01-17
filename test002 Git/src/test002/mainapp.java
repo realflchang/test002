@@ -21,7 +21,7 @@ public class mainapp {
 		System.out.println("Dog object " + String.format("%s", d));
 		//System.out.println("Fish goes " + f.noise());
 		System.out.println("Animal count is " + Integer.valueOf(Animal.getCount()));
-		
+		System.out.println("Feature added in addafeature branch");
 	}
 
 }
