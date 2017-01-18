@@ -22,6 +22,7 @@ public class mainapp {
 		//System.out.println("Fish goes " + f.noise());
 		System.out.println("Animal count is " + Integer.valueOf(Animal.getCount()));
 		System.out.println("Feature added in addafeature branch");
+		System.out.println("Feature added in 2ndFeature branch");
 	}
 
 }
